@@ -1,0 +1,8 @@
+rootProject.name = 'openmc'
+include 'api'
+include 'engine'
+include 'logging'
+include 'maths'
+include 'client'
+include 'server'
+
