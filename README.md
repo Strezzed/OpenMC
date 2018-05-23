@@ -11,6 +11,7 @@ OpenMC uses a number of open source projects to work properly:
 * [LWJGL3] - An OpenGL wrapper for java.
 * [Steamworks4j] - An Steamworks wrapper for java.
 * [JOML] - a Maths libarary for java and LWJGL3
+* [Netty] - A asynchronous client/server framework
 
 And of course OpenMC itself is open source with a [public repository][OpenMC]
  on GitHub.
@@ -45,4 +46,5 @@ MIT
    [LWJGL3]: <https://www.lwjgl.org>
    [Steamworks4j]: <https://github.com/code-disaster/steamworks4j>
    [JOML]: <https://github.com/JOML-CI/JOML>
+   [netty]: <https://netty.io>
   
